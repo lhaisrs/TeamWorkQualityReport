@@ -7,7 +7,6 @@
 <p><b>> python -m venv myvenv</b></p>
 <p>Depois, ative a sua virtualenv no terminal: </p>
 <p><b>> myvenv\Scripts\activate</b></p>
-<br>
 <p>Versão do pip: <b>9.0.1 (mais recente)</b></p>
 <p>Para instalar a versão mais recente do pip: </p>
 <p><b>> pip install --upgrade pip</b></p>
